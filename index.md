@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+Welcome!
 
-You can use the [editor on GitHub](https://github.com/alekhBhat/alekhProfile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am Sharath Kumar, currently working as a Data Visualization Developer at Institute for Transport Research & Education @ NCSU. I have a Master’s in Computer Science from UNC Charlotte. I am passionate about Data Science and on the path towards becoming a successful Data Scientist. Data is love, Data is life!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an avid sports and movie fan. Play Cricket, Soccer, Tennis and Squash. Rafael Nadal is my inspiration. Liverpool Forever!
 
 ### Markdown
 
