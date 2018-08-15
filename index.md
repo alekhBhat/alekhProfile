@@ -1,25 +1,24 @@
-Welcome!
+                                                         Welcome!
 
 I am Sharath Kumar, currently working as a Data Visualization Developer at Institute for Transport Research & Education @ NCSU. I have a Master’s in Computer Science from UNC Charlotte. I am passionate about Data Science and on the path towards becoming a successful Data Scientist. Data is love, Data is life!
 
 I am an avid sports and movie fan. Play Cricket, Soccer, Tennis and Squash. Rafael Nadal is my inspiration. Liverpool Forever!
 
-### Markdown
+                                                         Education
+                                                         
+University of North Carolina at Charlotte          August 2016 - December 2017
+Charlotte, NC.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MS in Computer Science
+GPA - 3.70 / 4.0
 
-```markdown
-Syntax highlighted code block
+University Visvesvaraya College of Engineering     September 2010 - June 2014
+Bangalore, KA, India.
 
-# Header 1
-## Header 2
-### Header 3
+BE in Computer Science and Engineering
+GPA 4.0 / 4.0
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
